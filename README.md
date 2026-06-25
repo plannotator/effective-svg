@@ -1,5 +1,7 @@
 ## Effective SVG
 
+https://github.com/user-attachments/assets/2fb92c88-921c-4e91-a769-1d49a8dc2001
+
 SVG versions of [html-effectiveness](https://thariqs.github.io/html-effectiveness/), animated and not.
 
 - `svg/` static SVGs
