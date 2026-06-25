@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="104" viewBox="0 0 440 104" role="img" aria-label="If you like this, star Plannotator on GitHub">
+  <!-- offset sticker shadow -->
+  <rect x="14" y="16" width="416" height="82" rx="18" fill="#E48A6E" opacity="0.35"/>
+  <!-- button body -->
+  <rect x="8" y="8" width="416" height="82" rx="18" fill="#1F1F1D" stroke="#E48A6E" stroke-width="2.5"/>
+  <!-- hand-drawn second border, slightly off -->
+  <rect x="12.5" y="12.5" width="407" height="73" rx="14" fill="none" stroke="#3D3D3A" stroke-width="1.5" stroke-dasharray="7 5" transform="rotate(-0.4 216 49)"/>
+
+  <!-- star -->
+  <g transform="translate(52,49) rotate(-8)">
+    <path d="M0,-23 L6.8,-7.1 L24,-5.6 L11,5.8 L14.9,22.6 L0,13.7 L-14.9,22.6 L-11,5.8 L-24,-5.6 L-6.8,-7.1 Z"
+          fill="#D4B36F" stroke="#FAF9F5" stroke-width="2" stroke-linejoin="round"/>
+  </g>
+
+  <!-- text -->
+  <text x="96" y="46" font-family="'Comic Sans MS','Comic Neue','Chalkboard SE',cursive" font-size="21" fill="#FAF9F5">
+    like this? star <tspan fill="#E48A6E" font-weight="bold">Plannotator</tspan>
+  </text>
+  <text x="96" y="72" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="12.5" fill="#87867F">
+    github.com/backnotprop/plannotator
+  </text>
+
+  <!-- little arrow doodle -->
+  <path d="M388,38 C 399,42 401,53 392,62" fill="none" stroke="#9DB07C" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M392,62 L390,53 M392,62 L399,57" fill="none" stroke="#9DB07C" stroke-width="2.5" stroke-linecap="round"/>
+</svg>
